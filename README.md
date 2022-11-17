@@ -80,10 +80,3 @@ class AppServiceProvider extends ServiceProvider
 }
 ```
 
-## Credits
-
-- [Dan Harrin](https://github.com/DanHarrin)
-- [Liam Hammett](https://github.com/imliam)
-- [Ryan Chandler](https://github.com/ryangjchandler)
-- [Tailwind UI](https://tailwindui.com) for the default authentication and pagination views
-- [All Contributors](../../contributors)
